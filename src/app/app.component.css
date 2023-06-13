@@ -1,0 +1,15 @@
+.container{
+    margin: 0 auto;
+    padding: 30px;
+}
+.search-bar {
+    min-width: 150px;
+    width: 100%;
+}
+.btn-container{
+    display: flex;
+    justify-content: flex-end;
+}
+.btn{
+    border:2px solid #e6e6e6;
+}

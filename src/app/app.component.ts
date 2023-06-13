@@ -6,11 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  constructor() {}
-  title: string = '';
-  date: string = '';
-  submitted: boolean = false;
-  submitForm() {
-    this.submitted = true;
-  }
+  tiles= [
+    { cols: 3, rows: 1 },
+    { cols: 1, rows: 2}
+  ]
 }

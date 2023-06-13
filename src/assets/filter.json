@@ -1,0 +1,68 @@
+{
+    "countries": [
+            "Australia",
+            "Austria",
+            "Belgium",
+            "Bulgaria",
+            "Canada",
+            "China",
+            "Finland",
+            "France",
+            "Germany",
+            "Greece",
+            "India",
+            "Indonesia",
+            "Ireland",
+            "Italy",
+            "Mexico",
+            "Netherlands",
+            "New Zealand",
+            "Portugal",
+            "Serbia",
+            "Slovenia",
+            "Spain",
+            "Switzerland"
+    ],
+    "disciplines":[
+        "Agriculture",
+        "Anthropology and Archaeology",
+        "Architecture",
+        "Agriculture",
+        "Anthropology and Archaeology",
+        "Architecture",
+        "Agriculture",
+        "Anthropology and Archaeology",
+        "Architecture"
+
+    ],
+    "degrees":[
+        "Masters",
+        "Bachelors",
+        "Doctorate",
+        "Associate",
+        "Masters",
+        "Bachelors",
+        "Doctorate",
+        "Associate",
+        "Masters",
+        "Bachelors",
+        "Doctorate",
+        "Associate"
+    ],
+    "tuitionFee":[
+        "All",
+        "30,000 USD/year or less",
+        "30,000 USD/year or less",
+        "30,000 USD/year or less",
+        "More than 90,000 USD/year"
+    ],
+    "partnershipType":[
+        "Partner",
+        "Non Partner"
+    ],
+    "saudiarabianMinistryOfEducation":[
+        "All",
+        "Approved",
+        "Not Approved"
+    ]
+}

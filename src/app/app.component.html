@@ -1,22 +1,28 @@
-
-
-<style>
-  :host {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size: 14px;
-    box-sizing: border-box;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-align: center;
-  }
-</style>
-
-<div class="content" role="main">
-  <!-- <h1>Welcome to {{title}}!</h1> -->
-  <h2>Start editing to see some magic happen</h2>
-    <input  [(ngModel)]="title"/>
-    <input  type="date" [(ngModel)]="date"/>
-    <button type="submit" (click)="submitForm()">Submit</button>
-  <p  *ngIf="submitted">{{title}} - {{date}}</p>
-  
+<div class="content" role="main" class="container">
+  <mat-form-field appearance="fill" class="search-bar">
+    <input matInput placeholder="Search for an institute or a course" />
+    <mat-icon matPrefix>search</mat-icon>
+  </mat-form-field>
+  <div class="btn-container">
+    <button mat-flat-button color="primary">
+      Best Match
+    </button>
+    <button mat-flat-button color="basic" class="btn">
+      Best Rank
+    </button>
+    <button mat-flat-button color="basic" class="btn">
+      Acceptance Rate
+    </button>
+    <button mat-flat-button color="basic" class="btn">
+      Tuition Fee
+    </button>
+  </div>
+  <mat-grid-list cols="5" column-width="1:4" rowHeight="1:1">
+    <mat-grid-tile [colspan]="1" [rowspan]="1">
+      <app-filter-options></app-filter-options>
+    </mat-grid-tile>
+    <mat-grid-tile [colspan]="4" [rowspan]="1">
+      <app-university-list></app-university-list>
+    </mat-grid-tile>
+  </mat-grid-list>
 </div>

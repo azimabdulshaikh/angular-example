@@ -1,0 +1,1333 @@
+[
+    {
+        "id": "5f044f13a55e24365a723915",
+        "slug": "the-university-of-texas-health-science-center-san-antonio",
+        "name": "The University of Texas Health Science Center",
+        "campus_name": "San Antonio",
+        "is_main_campus": false,
+        "logo": "https://cdn.ischoolconnect.com/logo/2104.png",
+        "address": {
+            "city": "San Antonio",
+            "state": "Texas",
+            "country": "United States of America",
+            "country_code": "USA"
+        },
+        "is_partner": false,
+        "account_info": {
+            "partnership_type": []
+        },
+        "rank": {
+            "isc_regional": {
+                "min": 107,
+                "max": 127
+            },
+            "isc_global": {
+                "min": 401,
+                "max": 500
+            }
+        },
+        "stats": {
+            "acceptance_rate": null,
+            "grad_kaplan_english_level": 0,
+            "undergrad_kaplan_english_level": 0
+        },
+        "courses_count": 52,
+        "courses": [
+            {
+                "school_id": "6299a4d50766d17df4981e3f",
+                "course_id": "6299a5e90766d17df4986421",
+                "school_name": "School of Dentistry",
+                "school_slug": "the-university-of-texas-health-science-center-san-antonio-school-of-dentistry",
+                "name": "Dental Hygiene",
+                "degree": [
+                    "Bachelors"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 0
+                },
+                "sacm_approved": true,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            },
+            {
+                "school_id": "6299a4d50766d17df4981e3f",
+                "course_id": "6299a5e90766d17df4986430",
+                "school_name": "School of Dentistry",
+                "school_slug": "the-university-of-texas-health-science-center-san-antonio-school-of-dentistry",
+                "name": "Dental Surgery",
+                "degree": [
+                    "Doctorate"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 0
+                },
+                "sacm_approved": false,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            }
+        ]
+    },
+    {
+        "id": "5f044f14a55e24365a7239a2",
+        "slug": "the-university-of-glasgow",
+        "name": "The University of Glasgow",
+        "campus_name": null,
+        "is_main_campus": true,
+        "logo": "https://cdn.ischoolconnect.com/logo/2254.png",
+        "address": {
+            "city": "Glasgow",
+            "state": "Lanarkshire",
+            "country": "United Kingdom",
+            "country_code": "GBR"
+        },
+        "is_partner": false,
+        "account_info": {
+            "partnership_type": []
+        },
+        "rank": {
+            "isc_regional": {
+                "min": 9,
+                "max": 16
+            },
+            "isc_global": {
+                "min": 101,
+                "max": 150
+            }
+        },
+        "stats": {
+            "acceptance_rate": null,
+            "grad_kaplan_english_level": 0,
+            "undergrad_kaplan_english_level": 0
+        },
+        "courses_count": 1,
+        "courses": [
+            {
+                "school_id": "60090ee044b7520c4cd57c5e",
+                "course_id": "60091deb44b7520c4cde6e6a",
+                "school_name": "College of Social Sciences",
+                "school_slug": "the-university-of-glasgow-college-of-social-sciences",
+                "name": "Text / Image Studies",
+                "degree": [
+                    "Doctorate"
+                ],
+                "tuition": {
+                    "currency": "GBP",
+                    "value": 19350
+                },
+                "sacm_approved": false,
+                "duration": 1096,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": [
+                            9
+                        ]
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            9
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            9
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            9
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            }
+        ]
+    },
+    {
+        "id": "6299a4d50766d17df4981e04",
+        "slug": "list-college-the-jewish-theological-seminary",
+        "name": "List College The Jewish Theological Seminary",
+        "campus_name": null,
+        "is_main_campus": true,
+        "logo": "https://cdn.ischoolconnect.com/logo/9431.png",
+        "address": {
+            "city": "New York",
+            "state": "New York",
+            "country": "United States of America",
+            "country_code": "USA"
+        },
+        "is_partner": false,
+        "account_info": {
+            "partnership_type": []
+        },
+        "rank": {
+            "isc_regional": {
+                "min": 0,
+                "max": 0
+            },
+            "isc_global": {
+                "min": 0,
+                "max": 0
+            }
+        },
+        "stats": {
+            "acceptance_rate": null,
+            "grad_kaplan_english_level": 0,
+            "undergrad_kaplan_english_level": 0
+        },
+        "courses_count": 1,
+        "courses": [
+            {
+                "school_id": "6299be990766d17df4a232dc",
+                "course_id": "6299bf920766d17df4a25b07",
+                "school_name": "List College",
+                "school_slug": "list-college-the-jewish-theological-seminary-list-college",
+                "name": "Jewish Texts and Interpretation",
+                "degree": [
+                    "Bachelors"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 60836
+                },
+                "sacm_approved": false,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": []
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            8,
+                            3
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            8,
+                            3
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            8,
+                            3
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            }
+        ]
+    },
+    {
+        "id": "5f044f14a55e24365a723a46",
+        "slug": "university-of-rochester",
+        "name": "University of Rochester",
+        "campus_name": null,
+        "is_main_campus": true,
+        "logo": "https://cdn.ischoolconnect.com/logo/2434.png",
+        "address": {
+            "city": "Rochester",
+            "state": "New York",
+            "country": "United States of America",
+            "country_code": "USA"
+        },
+        "is_partner": false,
+        "account_info": {
+            "partnership_type": []
+        },
+        "rank": {
+            "isc_regional": {
+                "min": 57,
+                "max": 65
+            },
+            "isc_global": {
+                "min": 151,
+                "max": 200
+            }
+        },
+        "stats": {
+            "acceptance_rate": 34.2,
+            "grad_kaplan_english_level": 0,
+            "undergrad_kaplan_english_level": 0
+        },
+        "courses_count": 1,
+        "courses": [
+            {
+                "school_id": "5f4fe399a0d2ed982b418970",
+                "course_id": "5f50b60c46889e8098c390fc",
+                "school_name": "Hajim School of Engineering & Applied Sciences",
+                "school_slug": "university-of-rochester-hajim-school-of-engineering-and-applied-sciences",
+                "name": "Technical Entrepreneurship and Management  - Team",
+                "degree": [
+                    "Masters"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 63150
+                },
+                "sacm_approved": true,
+                "duration": 730,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": []
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            9
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            9
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            9
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            }
+        ]
+    },
+    {
+        "id": "5f044f11a55e24365a72364c",
+        "slug": "ithaca-college",
+        "name": "Ithaca College",
+        "campus_name": null,
+        "is_main_campus": true,
+        "logo": "https://cdn.ischoolconnect.com/logo/1384.png",
+        "address": {
+            "city": "Ithaca",
+            "state": "New York",
+            "country": "United States of America",
+            "country_code": "USA"
+        },
+        "is_partner": false,
+        "account_info": {
+            "partnership_type": []
+        },
+        "rank": {
+            "isc_regional": {
+                "min": 0,
+                "max": 0
+            },
+            "isc_global": {
+                "min": 0,
+                "max": 0
+            }
+        },
+        "stats": {
+            "acceptance_rate": 76,
+            "grad_kaplan_english_level": 0,
+            "undergrad_kaplan_english_level": 0
+        },
+        "courses_count": 1,
+        "courses": [
+            {
+                "school_id": "62b41ba72b35a5f67ac1eedf",
+                "course_id": "5f04599423831b3f8273d2d7",
+                "school_name": "Roy H. Park School of Communications",
+                "school_slug": "ithaca-college-roy-h-park-school-of-communications",
+                "name": "Image Text",
+                "degree": [
+                    "Masters"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 0
+                },
+                "sacm_approved": false,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": []
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            8,
+                            1
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            8,
+                            1
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            8,
+                            1
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            }
+        ]
+    },
+    {
+        "id": "5f044f11a55e24365a7235c3",
+        "slug": "fordham-university",
+        "name": "Fordham University",
+        "campus_name": null,
+        "is_main_campus": true,
+        "logo": "https://cdn.ischoolconnect.com/logo/1246.png",
+        "address": {
+            "city": "New York",
+            "state": "New York",
+            "country": "United States of America",
+            "country_code": "USA"
+        },
+        "is_partner": false,
+        "account_info": {
+            "partnership_type": []
+        },
+        "rank": {
+            "isc_regional": {
+                "min": 175,
+                "max": 182
+            },
+            "isc_global": {
+                "min": 801,
+                "max": 900
+            }
+        },
+        "stats": {
+            "acceptance_rate": 46,
+            "grad_kaplan_english_level": 0,
+            "undergrad_kaplan_english_level": 0
+        },
+        "courses_count": 1,
+        "courses": [
+            {
+                "school_id": "60a38e48dc3c26d4836263d4",
+                "course_id": "60c2e1d05052ba65124cbe5e",
+                "school_name": "Graduate School of Arts and Sciences",
+                "school_slug": "fordham-university-graduate-school-of-arts-and-sciences",
+                "name": "Applied Psychological Methods - Tests and Measures",
+                "degree": [
+                    "Masters"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 0
+                },
+                "sacm_approved": true,
+                "duration": 730,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": []
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            9,
+                            1
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            9,
+                            1
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            9,
+                            1
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            }
+        ]
+    },
+    {
+        "id": "62b02189e0f479861e75678a",
+        "slug": "columbia-college-texas-nasjrb-fort-worth",
+        "name": "Columbia College",
+        "campus_name": "Texas - NASJRB Fort Worth",
+        "is_main_campus": false,
+        "logo": "https://cdn.ischoolconnect.com/logo/10051.png",
+        "address": {
+            "city": "Fort Worth",
+            "state": "Texas",
+            "country": "United States of America",
+            "country_code": "USA"
+        },
+        "is_partner": false,
+        "account_info": {
+            "partnership_type": []
+        },
+        "rank": {
+            "isc_regional": {
+                "min": 0,
+                "max": 0
+            },
+            "isc_global": {
+                "min": 0,
+                "max": 0
+            }
+        },
+        "stats": {
+            "acceptance_rate": null,
+            "grad_kaplan_english_level": 0,
+            "undergrad_kaplan_english_level": 0
+        },
+        "courses_count": 25,
+        "courses": [
+            {
+                "school_id": "62b0218ce0f479861e75686a",
+                "course_id": "62b0229ce0f479861e758eee",
+                "school_name": "Main",
+                "school_slug": "columbia-college-texas-nasjrb-fort-worth-main",
+                "name": "Business Administration",
+                "degree": [
+                    "Bachelors"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 52220
+                },
+                "sacm_approved": false,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            },
+            {
+                "school_id": "62b0218ce0f479861e75686a",
+                "course_id": "62b0229de0f479861e758fae",
+                "school_name": "Main",
+                "school_slug": "columbia-college-texas-nasjrb-fort-worth-main",
+                "name": "Management",
+                "degree": [
+                    "Bachelors"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 52220
+                },
+                "sacm_approved": false,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            }
+        ]
+    },
+    {
+        "id": "62b02189e0f479861e756789",
+        "slug": "columbia-college-texas-mesquite",
+        "name": "Columbia College",
+        "campus_name": "Texas - Mesquite",
+        "is_main_campus": false,
+        "logo": "https://cdn.ischoolconnect.com/logo/10050.png",
+        "address": {
+            "city": "Dallas",
+            "state": "Texas",
+            "country": "United States of America",
+            "country_code": "USA"
+        },
+        "is_partner": false,
+        "account_info": {
+            "partnership_type": []
+        },
+        "rank": {
+            "isc_regional": {
+                "min": 0,
+                "max": 0
+            },
+            "isc_global": {
+                "min": 0,
+                "max": 0
+            }
+        },
+        "stats": {
+            "acceptance_rate": null,
+            "grad_kaplan_english_level": 0,
+            "undergrad_kaplan_english_level": 0
+        },
+        "courses_count": 8,
+        "courses": [
+            {
+                "school_id": "62b0218ce0f479861e756878",
+                "course_id": "62b0229ce0f479861e758ef1",
+                "school_name": "Main",
+                "school_slug": "columbia-college-texas-mesquite-main",
+                "name": "Business Administration",
+                "degree": [
+                    "Bachelors"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 52220
+                },
+                "sacm_approved": false,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            },
+            {
+                "school_id": "62b0218ce0f479861e756878",
+                "course_id": "62b0229ce0f479861e758f48",
+                "school_name": "Main",
+                "school_slug": "columbia-college-texas-mesquite-main",
+                "name": "Business Administration",
+                "degree": [
+                    "Bachelors"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 52220
+                },
+                "sacm_approved": false,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            }
+        ]
+    },
+    {
+        "id": "5f044f10a55e24365a723494",
+        "slug": "bryant-university-rhode-island",
+        "name": "Bryant University",
+        "campus_name": "Rhode Island",
+        "is_main_campus": true,
+        "logo": "https://cdn.ischoolconnect.com/logo/918.png",
+        "address": {
+            "city": "Rhode Island",
+            "state": "Rhode Island",
+            "country": "United States of America",
+            "country_code": "USA"
+        },
+        "is_partner": false,
+        "account_info": {
+            "partnership_type": []
+        },
+        "rank": {
+            "isc_regional": {
+                "min": 0,
+                "max": 0
+            },
+            "isc_global": {
+                "min": 0,
+                "max": 0
+            }
+        },
+        "stats": {
+            "acceptance_rate": 75.8,
+            "grad_kaplan_english_level": 0,
+            "undergrad_kaplan_english_level": 0
+        },
+        "courses_count": 1,
+        "courses": [
+            {
+                "school_id": "62960841529d9c84383261cf",
+                "course_id": "62973da3627a3e472006bee7",
+                "school_name": "College of Business",
+                "school_slug": "bryant-university-rhode-island-college-of-business",
+                "name": "Management - Team and Project",
+                "degree": [
+                    "Bachelors"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 46885
+                },
+                "sacm_approved": true,
+                "duration": 1460,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": []
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            11
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            11
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            11
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            }
+        ]
+    },
+    {
+        "id": "6287333baa8812580c2530ae",
+        "slug": "austin-college",
+        "name": "Austin College",
+        "campus_name": null,
+        "is_main_campus": true,
+        "logo": "https://cdn.ischoolconnect.com/logo/9156.png",
+        "address": {
+            "city": "Sherman",
+            "state": "Texas",
+            "country": "United States of America",
+            "country_code": "USA"
+        },
+        "is_partner": false,
+        "account_info": {
+            "partnership_type": []
+        },
+        "rank": {
+            "isc_regional": {
+                "min": 0,
+                "max": 0
+            },
+            "isc_global": {
+                "min": 0,
+                "max": 0
+            }
+        },
+        "stats": {
+            "acceptance_rate": null,
+            "grad_kaplan_english_level": 0,
+            "undergrad_kaplan_english_level": 0
+        },
+        "courses_count": 41,
+        "courses": [
+            {
+                "school_id": "6287333caa8812580c2530e9",
+                "course_id": "6287344caa8812580c256f34",
+                "school_name": "Main",
+                "school_slug": "austin-college-main",
+                "name": "Anthropology",
+                "degree": [
+                    "Bachelors"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 0
+                },
+                "sacm_approved": true,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            },
+            {
+                "school_id": "6287333caa8812580c2530e9",
+                "course_id": "6287344caa8812580c256f37",
+                "school_name": "Main",
+                "school_slug": "austin-college-main",
+                "name": "Biochemistry",
+                "degree": [
+                    "Bachelors"
+                ],
+                "tuition": {
+                    "currency": "USD",
+                    "value": 0
+                },
+                "sacm_approved": true,
+                "application_deadlines": [
+                    {
+                        "year": 2023,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2024,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2025,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "year": 2026,
+                        "months": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    }
+                ],
+                "has_applied": false,
+                "is_application_deletable": false,
+                "is_shortlisted": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+/* .selection-hero {
+    justify-content: space-between;
+    align-items: center;
+} */
+
+.selection-container {
+    overflow-y: auto;
+    max-height: 250px;
+}
+
+.selection-header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: white;
+}

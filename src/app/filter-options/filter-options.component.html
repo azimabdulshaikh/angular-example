@@ -1,0 +1,57 @@
+<form [formGroup]="filterForm">
+    <mat-accordion class="selection-hero">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header class="selection-header">
+                <mat-panel-title>
+                    Countries
+                </mat-panel-title>
+            </mat-expansion-panel-header>
+            <div class="" formArrayName="countriesFormArray">
+
+                <ng-container *ngFor="let control of getCountryFormControls(); let i =index">
+                    <p *ngFor="let country of countryOptions"><input type="checkbox" />{{country}}</p>
+                </ng-container>
+            </div>
+        </mat-expansion-panel>
+        <mat-expansion-panel>
+            <mat-expansion-panel-header class="selection-header">
+                <mat-panel-title>
+                    Disciplines
+                </mat-panel-title>
+            </mat-expansion-panel-header>
+            <p *ngFor="let discipline of disicplinesOptions"><input type="checkbox" />{{discipline}}</p>
+        </mat-expansion-panel>
+        <mat-expansion-panel>
+            <mat-expansion-panel-header class="selection-header">
+                <mat-panel-title>
+                    Degrees
+                </mat-panel-title>
+            </mat-expansion-panel-header>
+            <p *ngFor="let degree of degreesOptions"><input type="checkbox" />{{degree}}</p>
+        </mat-expansion-panel>
+        <mat-expansion-panel>
+            <mat-expansion-panel-header class="selection-header">
+                <mat-panel-title>
+                    Tuition Fee
+                </mat-panel-title>
+            </mat-expansion-panel-header>
+            <p *ngFor="let tuitionFees of tuitionFeesOptions"><input type="radio" />{{tuitionFees}}</p>
+        </mat-expansion-panel>
+        <mat-expansion-panel>
+            <mat-expansion-panel-header class="selection-header">
+                <mat-panel-title>
+                    Partnership Type
+                </mat-panel-title>
+            </mat-expansion-panel-header>
+            <p *ngFor="let partner of partnershipTypeOptions"><input type="checkbox" />{{partner}}</p>
+        </mat-expansion-panel>
+        <mat-expansion-panel>
+            <mat-expansion-panel-header class="selection-header">
+                <mat-panel-title>
+                    Saudi Arabian Ministry of Education
+                </mat-panel-title>
+            </mat-expansion-panel-header>
+            <p *ngFor="let saudiMinistry of saudiMinistryOptions"><input type="radio" />{{saudiMinistry}}</p>
+        </mat-expansion-panel>
+    </mat-accordion>
+</form>
